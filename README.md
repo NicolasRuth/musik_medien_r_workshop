@@ -89,12 +89,11 @@ Der Workshop legt Wert auf:
 
 ## Repository-Struktur
 
-daten/              → Die Beispieldatensätze & Script zur Datengeneriung
-grafiken/           → Exportierte Visualisierungen  
-scripts_analysen/   → Lösung für die Übungen (nicht zuerst öffnen!) 
-und script für cheatsheets
-scripts_grafiken/   → Scripte zur Erläuterung der Grafikerstellung  
-scripts_uebungen/   → Übungsskripte 
+- daten/ → Die Beispieldatensätze & Script zur Datengeneriung
+- grafiken/ → Exportierte Visualisierungen  
+- scripts_analysen/ → Lösung für die Übungen (nicht zuerst öffnen!) & Script für cheatsheets
+- scripts_grafiken/ → Scripte zur Erläuterung der Grafikerstellung  
+- scripts_uebungen/ → Übungsskripte 
 
 
 ---
