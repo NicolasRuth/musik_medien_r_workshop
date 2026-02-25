@@ -122,4 +122,4 @@ Nach dem Workshop können Teilnehmende:
 Musik und Medien liefern den inhaltlichen Rahmen –  
 R liefert die analytische Struktur.
 
-Wenn du dieses Repository nutzt, feel free to fork, adapt und weiterentwickeln
+Wenn du dieses Repository nutzt, feel free to fork, adapt und weiterentwickeln 💪 👍
